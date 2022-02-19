@@ -26,15 +26,22 @@ featured-image:
 email: pascal.angst@unibas.ch
 
 # author settings for cc-by, appears in the footer and credits
-author: Pascal Angst
+#author: Pascal Angst
 pub_year: 2022
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal website of Pascal Angst.
+  Personal website
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pascalangst.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: pascalangst
-github_username:  pascalangst
+#twitter_username: pascalangst
+#github_username:  pascalangst
+
+minima:
+  # generate social links in footer
+  social_links:
+    twitter: pascalangst
+    github:  pascalangst
+    linkedin: pascal-angst-9114801a6
 
 # add the full url for the github repository
 repo: "https://github.com/pascalangst/pascalangst.github.io"
