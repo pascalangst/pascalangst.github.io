@@ -33,15 +33,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   Personal website
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pascalangst.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: pascalangst
-#github_username:  pascalangst
-
-minima:
-  # generate social links in footer
-  social_links:
-    twitter: pascalangst
-    github:  pascalangst
-    linkedin: pascal-angst-9114801a6
+twitter_username: pascalangst
+github_username:  pascalangst
+linkedin_username: pascal-angst-9114801a6
 
 # add the full url for the github repository
 repo: "https://github.com/pascalangst/pascalangst.github.io"
@@ -53,6 +47,8 @@ search: true
 theme: minima
 plugins:
   - jekyll-feed
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
