@@ -18,16 +18,29 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Pascal Angst
+# title-icon appears in the header to give some pizazz (leave blank for none)
+title-icon:
+keywords:
+featured-image:
+email: pascal.angst@unibas.ch
+
+# author settings for cc-by, appears in the footer and credits
+author: Pascal Angst
+pub_year: 2022
+
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Personal website of Pascal Angst.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://pascalangst.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: pascalangst
+github_username:  pascalangst
+
+# add the full url for the github repository
+repo: "https://github.com/pascalangst/pascalangst.github.io"
+
+# add search box to footer?
+search: true
 
 # Build settings
 theme: minima
