@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<img align="left" src="pngs/me.png">  
+![me](pngs/me.png)  
   
 I am a PhD student in evolutionary biology at the [University of Basel]( https://evolution.unibas.ch/ebert/index.htm).  
   
@@ -16,4 +16,5 @@ My research focusses on the evolution of metapopulations, i.e., interconnected p
 My undergraduate research involved examining and disentangling the effects of population structure, demographic history, geophylogeny, transmission mode, and host-parasite interactions on the genomic diversity of microsporidia, obligate intracellular parasites phylogenetically associated with the fungi.  
 
 ----------------
+  
 
