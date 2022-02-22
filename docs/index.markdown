@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<img align="left" src="pngs/me.png">
+<img align="left" width="504" height="672" src="pngs/me.png">
 I am a PhD student in evolutionary biology at the [University of Basel]( https://evolution.unibas.ch/ebert/index.htm).  
   
 My PhD is supervised by Dieter Ebert and co-supervised by Peter D. Fields, and I am affiliated with the Department of Environmental Sciences, Zoology.  
