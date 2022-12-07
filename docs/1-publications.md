@@ -4,8 +4,8 @@ layout: page
 ---
 
 ## 2022
-Pascal Angst, Camille Ameline, Dieter Ebert, and Peter D. Fields (2022) Genetic drift shapes the evolution of a highly dynamic metapopulation. *In Review*  
-&nbsp;&nbsp;&nbsp;&nbsp; <sub>Github repository</sub>  
+Pascal Angst, Camille Ameline, Christoph R Haag, Frida Ben-Ami, Dieter Ebert, and Peter D. Fields (2022) [Genetic drift shapes the evolution of a highly dynamic metapopulation.](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msac264/6874788?utm_source=authortollfreelink&utm_campaign=mbe&utm_medium=email&guestAccessKey=885421fe-284a-4214-b3f5-10ce907d94bc) *Molecular Biology and Evolution*, doi: https://doi.org/10.1093/molbev/msac264  
+&nbsp;&nbsp;&nbsp;&nbsp; <sub><[Github repository](https://github.com/pascalangst/Angst_etal_2022_MBE)/sub>  
 &nbsp;&nbsp;&nbsp;&nbsp; <sub>[Preprint](https://biorxiv.org/cgi/content/short/2022.07.10.499462v1)</sub>  
 
 Pascal Angst, Dieter Ebert, and Peter D. Fields (2022) Population genetic analysis reveals the role of natural selection and phylogeography on genome-wide diversity in an extremely compact and reduced microsporidian genome. *In Review*  
