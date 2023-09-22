@@ -4,7 +4,7 @@ layout: page
 ---
 
 ## 2023
-Pascal Angst, Jean-François Pombert, Dieter Ebert†, and Peter D. Fields† (2023) [Near chromosome-level genome assembly of the microsporidium *Hamiltosporidium tvaerminnensis*.](https://doi.org/10.1093/g3journal/jkad185) *G3 Genes|Genomes|Genetics*, doi: https://doi.org/10.1093/g3journal/jkad185  
+Pascal Angst, Jean-François Pombert, Dieter Ebert\*, and Peter D. Fields\* (2023) [Near chromosome-level genome assembly of the microsporidium *Hamiltosporidium tvaerminnensis*.](https://doi.org/10.1093/g3journal/jkad185) *G3 Genes|Genomes|Genetics*, doi: https://doi.org/10.1093/g3journal/jkad185  
 &nbsp;&nbsp;&nbsp;&nbsp; <sub>[Github repository](https://github.com/pascalangst/Angst_etal_2023_G3)</sub>  
 &nbsp;&nbsp;&nbsp;&nbsp; <sub>[Preprint](https://doi.org/10.1101/2023.06.02.543461)</sub>  
 
