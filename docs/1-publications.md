@@ -41,4 +41,4 @@ Pascal Angst and Peter D. Fields (2024) [DNA-extraction of Daphnia and symbionts
 
 ### Other publications
 
-Pascal Angst and Dieter Ebert (2024) [Mikrosporidien-Genome als Fenster zu deren Evolution.](https://doi.org/10.1007/s12268-024-2080-6) *BIOspektrum* doi: https://doi.org/10.1007/s12268-024-2080-6  
+Pascal Angst and Dieter Ebert (2024) [Mikrosporidien-Genome als Fenster zu deren Evolution.](https://rdcu.be/dyFfe) *BIOspektrum* doi: https://doi.org/10.1007/s12268-024-2080-6  
