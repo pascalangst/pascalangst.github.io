@@ -3,6 +3,11 @@ title: Publications
 layout: page
 ---
 
+## 2024
+Pascal Angst, Christoph R. Haag, Frida Ben-Ami, Dieter Ebert, and Peter D. Fields (2024) [Genome-wide allele frequency changes reveal that dynamic metapopulations evolve differently.](https://doi.org/10.1093/molbev/msac264) *in review*  
+&nbsp;&nbsp;&nbsp;&nbsp; <sub>[Github repository](https://github.com/pascalangst/Angst_etal_2024)</sub>  
+&nbsp;&nbsp;&nbsp;&nbsp; <sub>[Preprint](https://doi.org/10.1101/2024.01.18.575980 )</sub>  
+
 ## 2023
 Pascal Angst, Eric Dexter, Jonathon H. Stillman (2023) [Genome assemblies of two species of porcelain crab, *Petrolisthes cinctipes* and *Petrolisthes manimaculis* (Anomura: Porcellanidae)](https://doi.org/10.1093/g3journal/jkad281) *G3 Genes|Genomes|Genetics*, doi: https://doi.org/10.1093/g3journal/jkad281  
 &nbsp;&nbsp;&nbsp;&nbsp; <sub>[Github repository](https://github.com/pascalangst/Petrolisthes_assemblies)</sub>  
@@ -29,3 +34,11 @@ Pascal Angst, Dieter Ebert, and Peter D. Fields (2022) [Demographic history shap
 Pascal Angst, Christoph R. Haag, Frida Ben-Ami, Peter D. Fields, and Dieter Ebert (2023) Genomic analysis of a highly dynamic metapopulation reveals a strong role of genetic bottlenecks in its spatio-temporal evolutionary dynamics [https://doi.org/10.6084/m9.figshare.23654256](https://doi.org/10.6084/m9.figshare.23654256)  
 
 Pascal Angst, Dieter Ebert, and Peter D. Fields (2022) Metapopulation processes shape genomic diversity and genomic differentiation. [https://doi.org/10.6084/m9.figshare.19095344.v4](https://doi.org/10.6084/m9.figshare.19095344.v4)  
+
+### Protocols
+
+Pascal Angst and Peter D. Fields (2024) [DNA-extraction of Daphnia and symbionts.](https://doi.org/10.17504/protocols.io.5jyl82n96l2w/v1) *protocols.io*, doi: https://doi.org/10.17504/protocols.io.5jyl82n96l2w/v1  
+
+### Other publications
+
+Pascal Angst and Dieter Ebert (2024) [Mikrosporidien-Genome als Fenster zu deren Evolution.](https://doi.org/10.1007/s12268-024-2080-6) *BIOspektrum* doi: https://doi.org/10.1007/s12268-024-2080-6  
