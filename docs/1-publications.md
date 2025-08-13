@@ -4,10 +4,10 @@ layout: page
 ---
 
 ## 2025
-**Pascal Angst**, Dieter Ebert, Peter D. Fields (2025) [Variation in genome architecture and epigenetic modification across the microsporidia phylogeny.](https://doi.org/10.1101/2025.01.20.633886) *bioRxiv*, doi: https://doi.org/10.1101/2025.01.20.633886  
+**Pascal Angst**, Dieter Ebert, and Peter D. Fields (2025) [Variation in genome architecture and epigenetic modification across the microsporidia phylogeny.](https://doi.org/10.1101/2025.01.20.633886) *bioRxiv*, doi: https://doi.org/10.1101/2025.01.20.633886  
 &nbsp;&nbsp;&nbsp;&nbsp; <sub>[Preprint](https://doi.org/10.1101/2025.01.20.633886)</sub>  
 
-**Pascal Angst**, Alix Thivolle, Zoe Haden, Nina Wale, and Dieter Ebert (2025) [Genomic analysis of the zooplankton-associated pathogenic bacterium *Spirobacillus cienkowskii* reveals its functional and metabolic capacities.](https://doi.org/10.1099/mgen.0.001463) *Microbial Genomics* doi: https://doi.org/10.1099/mgen.0.001463  
+**Pascal Angst**, Alix Thivolle, Zoe Haden, Nina Wale, and Dieter Ebert (2025) [Genomic analysis of the zooplankton-associated pathogenic bacterium *Spirobacillus cienkowskii* reveals its functional and metabolic capacities.](https://doi.org/10.1099/mgen.0.001463) *Microbial Genomics*, doi: https://doi.org/10.1099/mgen.0.001463  
 &nbsp;&nbsp;&nbsp;&nbsp; <sub>[Github repository](https://github.com/pascalangst/Angst_etal_2025_MicrobGenom/)</sub>  
 &nbsp;&nbsp;&nbsp;&nbsp; <sub>[SeqCode](https://registry.seqco.de/registers/r:hyd0fmmd)</sub>  
 
@@ -20,7 +20,7 @@ layout: page
 &nbsp;&nbsp;&nbsp;&nbsp; <sub>[Preprint](https://doi.org/10.1101/2024.01.18.575980)</sub>  
 
 ## 2023
-**Pascal Angst**, Eric Dexter, Jonathon H. Stillman (2023) [Genome assemblies of two species of porcelain crab, *Petrolisthes cinctipes* and *Petrolisthes manimaculis* (Anomura: Porcellanidae)](https://doi.org/10.1093/g3journal/jkad281) *G3 Genes|Genomes|Genetics*, doi: https://doi.org/10.1093/g3journal/jkad281  
+**Pascal Angst**, Eric Dexter, and Jonathon H. Stillman (2023) [Genome assemblies of two species of porcelain crab, *Petrolisthes cinctipes* and *Petrolisthes manimaculis* (Anomura: Porcellanidae)](https://doi.org/10.1093/g3journal/jkad281) *G3 Genes|Genomes|Genetics*, doi: https://doi.org/10.1093/g3journal/jkad281  
 &nbsp;&nbsp;&nbsp;&nbsp; <sub>[Github repository](https://github.com/pascalangst/Petrolisthes_assemblies)</sub>  
 
 **Pascal Angst**, Jean-François Pombert, Dieter Ebert\*, and Peter D. Fields\* (2023) [Near chromosome-level genome assembly of the microsporidium *Hamiltosporidium tvaerminnensis*.](https://doi.org/10.1093/g3journal/jkad185) *G3 Genes|Genomes|Genetics*, doi: https://doi.org/10.1093/g3journal/jkad185  

@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Dr. Pascal"
+date:   2025-08-13 08:35:00 +0100
+categories: jekyll update
+---
+
+
+There is a lot going on this year and it's time to share good news. In short, after successfully defending my PhD early this year and celebrating a big birthday, I started a new position at the University of Basel.  
+ 
+The year began with a lot of work, the thesis didn't write itself. However, things changed after submitting and waiting for the defense of my four-year research project. Standing in front of the entire institute was an incredible feeling, and I’m incredibly happy that everything went well. We celebrated with an apero after, where I received warm wishes and gifts from my amazing colleagues. The quiet moments that followed, when everything seemed to slow down, were truly unforgettable. All chapters of my thesis will hopefully end up [with my other publications](https://pascalangst.github.io/1-publications.html) soon.
+ 
+New challenges lie ahead. In my new role, I will approach long-standing evolutionary questions from different angles, applying a variety of bioinformatic and experimental methods. For example, I will have the chance to work with the *Daphnia magna* diversity panel to study phylogeography on a multi-continental scale, using the collected animals and their genomic sequences analyzed on the high-performance cluster. In doing so, I hope to immerse myself further in the world of machine learning to keep pace with our rapidly evolving research fields. This will enable me to develop my scientific expertise, and I am looking forward to sharing my experience by guiding our brilliant students on their own scientific journeys.
+
+Thanks to Dieter, Peter, and Anja.  
