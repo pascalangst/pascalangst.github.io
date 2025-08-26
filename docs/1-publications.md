@@ -4,7 +4,7 @@ layout: page
 ---
 
 ## 2025
-**Pascal Angst**, Dieter Ebert, and Peter D. Fields (2025) [Variation in genome architecture and epigenetic modification across the microsporidia phylogeny.](https://doi.org/10.1101/2025.01.20.633886) *bioRxiv*, doi: https://doi.org/10.1101/2025.01.20.633886  
+**Pascal Angst**, Dieter Ebert, and Peter D. Fields (2025) [Variation in genome architecture and epigenetic modification across the microsporidia phylogeny.](https://doi.org/10.1093/gbe/evaf166) *Genome Biology and Evolution*, doi: https://doi.org/10.1093/gbe/evaf166  
 &nbsp;&nbsp;&nbsp;&nbsp; <sub>[Preprint](https://doi.org/10.1101/2025.01.20.633886)</sub>  
 
 **Pascal Angst**, Alix Thivolle, Zoe Haden, Nina Wale, and Dieter Ebert (2025) [Genomic analysis of the zooplankton-associated pathogenic bacterium *Spirobacillus cienkowskii* reveals its functional and metabolic capacities.](https://doi.org/10.1099/mgen.0.001463) *Microbial Genomics*, doi: https://doi.org/10.1099/mgen.0.001463  
