@@ -4,6 +4,10 @@ layout: page
 ---
 
 ## 2025
+Eric Dexter, **Pascal Angst**, Peter D. Fields, Fabian Scheuber, Marlon Henseler, and Dieter Ebert (2025) [Rapid evolution of a large structural polymorphism during a bacterial epidemic.](https://doi.org/10.1038/s41437-025-00812-7) *Heredity*, doi: https://doi.org/10.1038/s41437-025-00812-7  
+&nbsp;&nbsp;&nbsp;&nbsp; <sub>[Github repository](https://github.com/edexter/LSP)</sub>  
+&nbsp;&nbsp;&nbsp;&nbsp; <sub>[Preprint](https://doi.org/10.21203/rs.3.rs-6422822/v1)</sub>  
+  
 **Pascal Angst**, Dieter Ebert, and Peter D. Fields (2025) [Variation in genome architecture and epigenetic modification across the microsporidia phylogeny.](https://doi.org/10.1093/gbe/evaf166) *Genome Biology and Evolution*, doi: https://doi.org/10.1093/gbe/evaf166  
 &nbsp;&nbsp;&nbsp;&nbsp; <sub>[Preprint](https://doi.org/10.1101/2025.01.20.633886)</sub>  
 
