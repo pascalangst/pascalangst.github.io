@@ -3,6 +3,10 @@ title: Publications
 layout: page
 ---
 
+## Preprints
+
+**Pascal Angst**, Peter D. Fields, Christoph R. Haag, and Dieter Ebert (2026) [Chromosome-scale *Daphnia magna* genome assembly resolves scaffolding discrepancies.](https://doi.org/10.64898/2026.09.03.749101) *bioRxiv*, doi: https://doi.org/10.64898/2026.09.03.749101 
+
 ## 2025
 Eric Dexter, **Pascal Angst**, Peter D. Fields, Fabian Scheuber, Marlon Henseler, and Dieter Ebert (2025) [Rapid evolution of a large structural polymorphism during a bacterial epidemic.](https://doi.org/10.1038/s41437-025-00812-7) *Heredity*, doi: https://doi.org/10.1038/s41437-025-00812-7  
 &nbsp;&nbsp;&nbsp;&nbsp; <sub>[Github repository](https://github.com/edexter/LSP)</sub>  
