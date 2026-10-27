@@ -50,13 +50,15 @@ Eric Dexter, **Pascal Angst**, Peter D. Fields, Fabian Scheuber, Marlon Henseler
 
 ### Research Posters
 
-**Pascal Angst**, Christoph R. Haag, Frida Ben-Ami, Peter D. Fields, and Dieter Ebert (2023) Genomic analysis of a highly dynamic metapopulation reveals a strong role of genetic bottlenecks in its spatio-temporal evolutionary dynamics [https://doi.org/10.6084/m9.figshare.23654256](https://doi.org/10.6084/m9.figshare.23654256)  
+**Pascal Angst** and Dieter Ebert (2026) A pangenome for *Daphnia magna*. [https://doi.org/10.6084/m9.figshare.34746744](https://doi.org/10.6084/m9.figshare.34746744)
+
+**Pascal Angst**, Christoph R. Haag, Frida Ben-Ami, Peter D. Fields, and Dieter Ebert (2023) Genomic analysis of a highly dynamic metapopulation reveals a strong role of genetic bottlenecks in its spatio-temporal evolutionary dynamics. [https://doi.org/10.6084/m9.figshare.23654256](https://doi.org/10.6084/m9.figshare.23654256)  
 
 **Pascal Angst**, Dieter Ebert, and Peter D. Fields (2022) Metapopulation processes shape genomic diversity and genomic differentiation. [https://doi.org/10.6084/m9.figshare.19095344.v4](https://doi.org/10.6084/m9.figshare.19095344.v4)  
 
 ### Protocols
 
-**Pascal Angst** and Peter D. Fields (2024) [DNA-extraction of Daphnia and symbionts.](https://doi.org/10.17504/protocols.io.5jyl82n96l2w/v1) *protocols.io*, doi: https://doi.org/10.17504/protocols.io.5jyl82n96l2w/v1  
+**Pascal Angst** and Peter D. Fields (2024) [DNA-extraction of *Daphnia* and symbionts.](https://doi.org/10.17504/protocols.io.5jyl82n96l2w/v1) *protocols.io*, doi: https://doi.org/10.17504/protocols.io.5jyl82n96l2w/v1  
 
 ### Other publications
 
